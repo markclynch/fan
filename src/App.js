@@ -33,13 +33,15 @@ class App extends Component {
   }
   
   spinHandler(){
+    
+    if(this.state.isOn) {
+      clearInterval(this.timer2);
+    } else {
+      this.timer2 = setInterval(this.tick2, 600)
+    }
     this.setState({
       isOn: !this.state.isOn
-    });
-    {this.timer2 = setInterval(
-      () => this.tick2(),
-      600
-    );}
+    })
   }
 
   tick2 = () => {
