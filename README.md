@@ -21,9 +21,9 @@
 
 - add zoom feature to greenhouse with further details
 
-⋅⋅1 plant mapping on floor/grid - detailed information on breed/charictaristics etc.
+-1 plant mapping on floor/grid - detailed information on breed/charictaristics etc.
 
-⋅⋅2 Add section detail for watering automation.
+-2 Add section detail for watering automation.
 
 ##Questions
 
