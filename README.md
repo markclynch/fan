@@ -4,22 +4,22 @@
 2.  dehumidifier
 3.  model automation
 
-⋅⋅\* temp above 82 fan goes on
+- temp above 82 fan goes on
 
-⋅⋅\* functions to handle dew point avoidance
+- functions to handle dew point avoidance
 
-⋅⋅\* notification to workers for low humidity instructing additional water
+- notification to workers for low humidity instructing additional water
 
-⋅⋅\* fan/dehumidifier control
+- fan/dehumidifier control
 
 4.  increase elegance of code
 5.  add navbar
 
-⋅⋅\* login/logout
+- login/logout
 
-⋅⋅\* add greenhouse
+- add greenhouse
 
-⋅⋅\* add zoom feature to greenhouse with further details
+- add zoom feature to greenhouse with further details
 
 ⋅⋅1 plant mapping on floor/grid - detailed information on breed/charictaristics etc.
 
@@ -28,4 +28,4 @@
 ##Questions
 
 1.  Is an inside out approach best?
-    ⋅⋅\* Start with base components as I have or complete entire static model?
+    - Start with base components as I have or complete entire static model?
