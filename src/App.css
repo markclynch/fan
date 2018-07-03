@@ -2,27 +2,33 @@
   text-align: center;
   margin-top: 10px;
 }
+
 img {
   width: 200px;
 }
+
 .App-logo {
   animation: App-logo-spin infinite 1s linear;
-  
-}
-.pause {
-  animation-play-state:paused;
 }
 
+.pause {
+  animation-play-state: paused;
+}
 
 .button {
   color: white;
   font-size: 2em;
 }
+
 .App-intro {
   font-size: large;
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
